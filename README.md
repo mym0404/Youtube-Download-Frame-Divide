@@ -8,4 +8,4 @@
 
 ## Sample
 
-![](Sample.jpg)
+![]sample.bmp)
