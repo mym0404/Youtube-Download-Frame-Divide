@@ -18,4 +18,4 @@ You can download video from Youtube and use it as divided frames.
 
 ## Sample
 
-![Sample Program Image](sample.bmp)
+![Sample Program Image](sample_image.bmp)
