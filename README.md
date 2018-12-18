@@ -1,8 +1,8 @@
-# Youtube-Download-Frame-Divide
+# Youtube Download & Frame Divide
 
 ## Project
 
-This projectg is a C# Windows From project.
+This project is a C# Windows Form project.
 
 You can download video from Youtube and use it as divided frames.
 
